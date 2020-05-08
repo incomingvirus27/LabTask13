@@ -1,0 +1,13 @@
+C:\Users\emma\Documents\Visual Studio 2019\DelegateAssignment13\QuestionTwoDelegateApp\QuestionTwoDelegateApp\obj\Debug\netcoreapp3.1\QuestionTwoDelegateApp.csprojAssemblyReference.cache
+C:\Users\emma\Documents\Visual Studio 2019\DelegateAssignment13\QuestionTwoDelegateApp\QuestionTwoDelegateApp\obj\Debug\netcoreapp3.1\QuestionTwoDelegateApp.csproj.CoreCompileInputs.cache
+C:\Users\emma\Documents\Visual Studio 2019\DelegateAssignment13\QuestionTwoDelegateApp\QuestionTwoDelegateApp\obj\Debug\netcoreapp3.1\QuestionTwoDelegateApp.AssemblyInfoInputs.cache
+C:\Users\emma\Documents\Visual Studio 2019\DelegateAssignment13\QuestionTwoDelegateApp\QuestionTwoDelegateApp\obj\Debug\netcoreapp3.1\QuestionTwoDelegateApp.AssemblyInfo.cs
+C:\Users\emma\Documents\Visual Studio 2019\DelegateAssignment13\QuestionTwoDelegateApp\QuestionTwoDelegateApp\bin\Debug\netcoreapp3.1\QuestionTwoDelegateApp.exe
+C:\Users\emma\Documents\Visual Studio 2019\DelegateAssignment13\QuestionTwoDelegateApp\QuestionTwoDelegateApp\bin\Debug\netcoreapp3.1\QuestionTwoDelegateApp.deps.json
+C:\Users\emma\Documents\Visual Studio 2019\DelegateAssignment13\QuestionTwoDelegateApp\QuestionTwoDelegateApp\bin\Debug\netcoreapp3.1\QuestionTwoDelegateApp.runtimeconfig.json
+C:\Users\emma\Documents\Visual Studio 2019\DelegateAssignment13\QuestionTwoDelegateApp\QuestionTwoDelegateApp\bin\Debug\netcoreapp3.1\QuestionTwoDelegateApp.runtimeconfig.dev.json
+C:\Users\emma\Documents\Visual Studio 2019\DelegateAssignment13\QuestionTwoDelegateApp\QuestionTwoDelegateApp\bin\Debug\netcoreapp3.1\QuestionTwoDelegateApp.dll
+C:\Users\emma\Documents\Visual Studio 2019\DelegateAssignment13\QuestionTwoDelegateApp\QuestionTwoDelegateApp\bin\Debug\netcoreapp3.1\QuestionTwoDelegateApp.pdb
+C:\Users\emma\Documents\Visual Studio 2019\DelegateAssignment13\QuestionTwoDelegateApp\QuestionTwoDelegateApp\obj\Debug\netcoreapp3.1\QuestionTwoDelegateApp.dll
+C:\Users\emma\Documents\Visual Studio 2019\DelegateAssignment13\QuestionTwoDelegateApp\QuestionTwoDelegateApp\obj\Debug\netcoreapp3.1\QuestionTwoDelegateApp.pdb
+C:\Users\emma\Documents\Visual Studio 2019\DelegateAssignment13\QuestionTwoDelegateApp\QuestionTwoDelegateApp\obj\Debug\netcoreapp3.1\QuestionTwoDelegateApp.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\emma\Documents\Visual Studio 2019\DelegateAssignment13\Question3MulticastDelegate\Question3MulticastDelegate\bin\Debug\netcoreapp3.1\Question3MulticastDelegate.exe
+C:\Users\emma\Documents\Visual Studio 2019\DelegateAssignment13\Question3MulticastDelegate\Question3MulticastDelegate\bin\Debug\netcoreapp3.1\Question3MulticastDelegate.deps.json
+C:\Users\emma\Documents\Visual Studio 2019\DelegateAssignment13\Question3MulticastDelegate\Question3MulticastDelegate\bin\Debug\netcoreapp3.1\Question3MulticastDelegate.runtimeconfig.json
+C:\Users\emma\Documents\Visual Studio 2019\DelegateAssignment13\Question3MulticastDelegate\Question3MulticastDelegate\bin\Debug\netcoreapp3.1\Question3MulticastDelegate.runtimeconfig.dev.json
+C:\Users\emma\Documents\Visual Studio 2019\DelegateAssignment13\Question3MulticastDelegate\Question3MulticastDelegate\bin\Debug\netcoreapp3.1\Question3MulticastDelegate.dll
+C:\Users\emma\Documents\Visual Studio 2019\DelegateAssignment13\Question3MulticastDelegate\Question3MulticastDelegate\bin\Debug\netcoreapp3.1\Question3MulticastDelegate.pdb
+C:\Users\emma\Documents\Visual Studio 2019\DelegateAssignment13\Question3MulticastDelegate\Question3MulticastDelegate\obj\Debug\netcoreapp3.1\Question3MulticastDelegate.csprojAssemblyReference.cache
+C:\Users\emma\Documents\Visual Studio 2019\DelegateAssignment13\Question3MulticastDelegate\Question3MulticastDelegate\obj\Debug\netcoreapp3.1\Question3MulticastDelegate.csproj.CoreCompileInputs.cache
+C:\Users\emma\Documents\Visual Studio 2019\DelegateAssignment13\Question3MulticastDelegate\Question3MulticastDelegate\obj\Debug\netcoreapp3.1\Question3MulticastDelegate.AssemblyInfoInputs.cache
+C:\Users\emma\Documents\Visual Studio 2019\DelegateAssignment13\Question3MulticastDelegate\Question3MulticastDelegate\obj\Debug\netcoreapp3.1\Question3MulticastDelegate.AssemblyInfo.cs
+C:\Users\emma\Documents\Visual Studio 2019\DelegateAssignment13\Question3MulticastDelegate\Question3MulticastDelegate\obj\Debug\netcoreapp3.1\Question3MulticastDelegate.dll
+C:\Users\emma\Documents\Visual Studio 2019\DelegateAssignment13\Question3MulticastDelegate\Question3MulticastDelegate\obj\Debug\netcoreapp3.1\Question3MulticastDelegate.pdb
+C:\Users\emma\Documents\Visual Studio 2019\DelegateAssignment13\Question3MulticastDelegate\Question3MulticastDelegate\obj\Debug\netcoreapp3.1\Question3MulticastDelegate.genruntimeconfig.cache

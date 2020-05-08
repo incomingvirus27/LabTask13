@@ -1,0 +1,13 @@
+C:\Users\emma\Documents\Visual Studio 2019\DelegateAssignment13\QuestionOneSimpleInterest\QuestionOneSimpleInterest\bin\Debug\netcoreapp3.1\QuestionOneSimpleInterest.exe
+C:\Users\emma\Documents\Visual Studio 2019\DelegateAssignment13\QuestionOneSimpleInterest\QuestionOneSimpleInterest\bin\Debug\netcoreapp3.1\QuestionOneSimpleInterest.deps.json
+C:\Users\emma\Documents\Visual Studio 2019\DelegateAssignment13\QuestionOneSimpleInterest\QuestionOneSimpleInterest\bin\Debug\netcoreapp3.1\QuestionOneSimpleInterest.runtimeconfig.json
+C:\Users\emma\Documents\Visual Studio 2019\DelegateAssignment13\QuestionOneSimpleInterest\QuestionOneSimpleInterest\bin\Debug\netcoreapp3.1\QuestionOneSimpleInterest.runtimeconfig.dev.json
+C:\Users\emma\Documents\Visual Studio 2019\DelegateAssignment13\QuestionOneSimpleInterest\QuestionOneSimpleInterest\bin\Debug\netcoreapp3.1\QuestionOneSimpleInterest.dll
+C:\Users\emma\Documents\Visual Studio 2019\DelegateAssignment13\QuestionOneSimpleInterest\QuestionOneSimpleInterest\bin\Debug\netcoreapp3.1\QuestionOneSimpleInterest.pdb
+C:\Users\emma\Documents\Visual Studio 2019\DelegateAssignment13\QuestionOneSimpleInterest\QuestionOneSimpleInterest\obj\Debug\netcoreapp3.1\QuestionOneSimpleInterest.csprojAssemblyReference.cache
+C:\Users\emma\Documents\Visual Studio 2019\DelegateAssignment13\QuestionOneSimpleInterest\QuestionOneSimpleInterest\obj\Debug\netcoreapp3.1\QuestionOneSimpleInterest.csproj.CoreCompileInputs.cache
+C:\Users\emma\Documents\Visual Studio 2019\DelegateAssignment13\QuestionOneSimpleInterest\QuestionOneSimpleInterest\obj\Debug\netcoreapp3.1\QuestionOneSimpleInterest.AssemblyInfoInputs.cache
+C:\Users\emma\Documents\Visual Studio 2019\DelegateAssignment13\QuestionOneSimpleInterest\QuestionOneSimpleInterest\obj\Debug\netcoreapp3.1\QuestionOneSimpleInterest.AssemblyInfo.cs
+C:\Users\emma\Documents\Visual Studio 2019\DelegateAssignment13\QuestionOneSimpleInterest\QuestionOneSimpleInterest\obj\Debug\netcoreapp3.1\QuestionOneSimpleInterest.dll
+C:\Users\emma\Documents\Visual Studio 2019\DelegateAssignment13\QuestionOneSimpleInterest\QuestionOneSimpleInterest\obj\Debug\netcoreapp3.1\QuestionOneSimpleInterest.pdb
+C:\Users\emma\Documents\Visual Studio 2019\DelegateAssignment13\QuestionOneSimpleInterest\QuestionOneSimpleInterest\obj\Debug\netcoreapp3.1\QuestionOneSimpleInterest.genruntimeconfig.cache
